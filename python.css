@@ -1,0 +1,148 @@
+.container{
+  width: 1000px;
+  height:1000px;
+
+}
+    .tophalf{
+      display: inline-block;
+      width:950px;
+      height:500px;
+      background-color: #4682B4;
+
+    }
+
+    .header{
+      display: inline-block;
+      width: 950px;
+      height:170px;
+      padding-top: 10px;
+      position: absolute;
+    }
+    .header img{
+      margin-left: 25px;
+      margin-top: 25px;
+    }
+    .text_size{
+      display: inline-block;
+      position: absolute;
+      text-decoration: none;
+      margin-left: 350px;
+
+
+    }
+    .text_size li{
+      display: inline;
+      font-size: 12px;
+      margin-bottom: 20px;
+
+    }
+    .text_size a{
+      color: yellow;
+    }
+    .search{
+      position: absolute;
+      display: inline-block;
+      height:50px;
+      width:250px;
+      background-color: gray;
+      border-radius: 10px;
+      margin-left: 250px;
+    margin-top: 34px;
+      padding: 10px;
+
+    }
+    .search form{
+      padding:10px 10px 10px 10px;
+    }
+
+    .nav_bar{
+      width:780px;
+      height: 40px;
+      background-color: #008ae6;
+      border-radius: 10px;
+      margin-left: 80px;
+      margin-top: 140px;
+      padding: 1px 0px 8px 0px;
+    }
+      .nav_bar li{
+        display: inline;
+        font-size: 20px;
+        margin-right: 42px;
+        color: white;
+      }
+      .main_content{
+        text-align: center;
+      }
+      .links{
+        display: inline-block;
+        margin: 20px 40px 0px 0px;
+        vertical-align: top;
+        color: yellow;
+      }
+      .links a{
+        color: white;
+
+      }
+      .links li{
+        padding: 3px;
+      }
+      .info{
+        display: inline-block;
+        width: 500px;
+        color: white;
+      }
+      .info li{
+        list-style-type: none;
+        color:  yellow;
+        margin-bottom: 8px;
+      }
+      .zen{
+        color: white;
+      }
+      .more_info{
+        display: inline-block;
+        width: 300px;
+        height:200px;
+        text-align: center;
+        padding-top: 20px;
+        border-top: solid #008ae6;
+        margin-left:25px;
+        margin-right: 25px;
+        margin-top: 10px;
+        font-size: 12px;
+      }
+      .more_info h2{
+        margin-top: -3px;
+        font-size: 20px;
+      }
+      .more_info h3{
+        font-size: 20px;
+        margin-top: 5px;
+      }
+    .more_info a{
+    color:lightblue;
+    text-decoration: none;
+    }
+    .more_info li{
+      list-style-type: square;
+    }
+      .box_info{
+        text-align: center;
+      }
+
+      .python_pack{
+        color:lightblue;
+      }
+
+      .footer{
+        text-align: center;
+        height:80px;
+        width:950px;
+        padding: 20px 0px 0px 0px;
+        background-color: #4682B4;
+        color: white;
+      }
+      .footer li{
+        display: inline;
+        padding: 0px 10px 0px 10px;
+      }
