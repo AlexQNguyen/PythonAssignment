@@ -21,6 +21,8 @@
     .header img{
       margin-left: 25px;
       margin-top: 25px;
+      height:40%;
+      width:40%;
     }
     .text_size{
       display: inline-block;
